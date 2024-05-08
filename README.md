@@ -1,4 +1,4 @@
-## Welcome! ヾ(≧▽≦*)o
+## 🏳️‍⚧️ Welcome! ヾ(≧▽≦*)o 🏳️‍⚧️
 
 ```
 From tinkering with code since i could barely reach the keyboard,
