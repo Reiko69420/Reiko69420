@@ -17,8 +17,8 @@ And now dipping into the depths of medium-level programming
 ## Stats 〽️
 
 ‎ 
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Reiko69420&show_icons=true&theme=dracula" />
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reiko69420&layout=compact&theme=dracula" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Reiko69420&show_icons=true&theme=dracula" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reiko69420&layout=compact&theme=dracula" />
 
 </div>
 
