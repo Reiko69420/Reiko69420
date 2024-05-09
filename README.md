@@ -1,9 +1,7 @@
 ## 🏳️‍⚧️ Welcome! ヾ(≧▽≦*)o 🏳️‍⚧️
 
 ```
-From tinkering with code since i could barely reach the keyboard,
-to enjoy the high-level languages...
-And now dipping into the depths of medium-level programming
+Tinkering with code since i could barely reach the keyboard.
 ```
 
 ## Under Construction project/Working on 🚧
