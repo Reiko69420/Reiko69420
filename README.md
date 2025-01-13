@@ -7,9 +7,9 @@ Tinkering with code since i could barely reach the keyboard.
 ## Under Construction project/Working on 🚧
 
 - 🎮 Singleplayer psychological horror game in Unreal Engine 5
-- 🛠️ Discord MultiTools (Upload infinite files size, Automation, and much more) written in NodeJS/Bun and Electron
-- 📟 Learning and creating a basic game in Assembly for the NES
-- 🎨 Learning OpenGL with C++
+- 🛠️ BepInEx/IL2CPP mod for the game "MiSide"
+- 📟 Learning a lil lil bit of assembly (help)
+- 🎨 Learning a bit of OpenGL
 - 🕹️ Doing some side project
 
 ## Stats 〽️
